@@ -1,2 +1,2 @@
 # Candy-Recommender
-Candy Recommendation using Collaborative Filtering
+Candy Recommendation based on Collaborative Filtering using LightFM
